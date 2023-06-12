@@ -1,4 +1,4 @@
-transformers==4.19.2
+transformers==4.30.0
 pandas
 tensorboardX==2.5.1
 nltk==3.7
